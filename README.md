@@ -12,10 +12,10 @@
 - Бэкенд Telegram-бота для некоммерческой организации - выдерживает высокую пиковую нагрузку.
 - UserService - gRPC-сервис (CRUD) на PostgreSQL, Dapper, FluentValidation, Mapperly.
 
-**Связь:** [Telegram](https://t.me/...) · stephan.grigorchuk@gmail.com · [stigri.com](https://stigri.com)
+**Связь:** [Telegram](https://t.me/Grigorchyk) · stephan.grigorchuk@gmail.com · [stigri.com](https://stigri.com)
 
 <details>
-<summary>🇬🇧 English</summary>
+<summary>English</summary>
 
 Backend developer (C# / .NET), Software Engineering student at ITMO, Saint Petersburg.
 
