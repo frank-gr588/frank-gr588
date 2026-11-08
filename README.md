@@ -1,4 +1,21 @@
-### Hi, I'm Stepan 👋
+### Привет, я Стёпа 👋
+
+Бэкенд-разработчик на C# / .NET, студент разработки программного обеспечения в ИТМО, Санкт-Петербург.
+
+**Сейчас:** ищу работу джуном или стажёром .NET-бэкендером.
+
+**Стек:** C#, ASP.NET Core, PostgreSQL, gRPC, Kafka, Dapper, Docker, Git
+
+**Проекты**
+- [1703.su](https://1703.su) - карта жертв блокады Ленинграда: ASP.NET Core + PostgreSQL,
+  большой архивный датасет, нечёткий поиск по историческим адресам.
+- Бэкенд Telegram-бота для некоммерческой организации - выдерживает высокую пиковую нагрузку.
+- UserService - gRPC-сервис (CRUD) на PostgreSQL, Dapper, FluentValidation, Mapperly.
+
+**Связь:** [Telegram](https://t.me/...) · stephan.grigorchuk@gmail.com · [stigri.com](https://stigri.com)
+
+<details>
+<summary>🇬🇧 English</summary>
 
 Backend developer (C# / .NET), Software Engineering student at ITMO, Saint Petersburg.
 
@@ -12,7 +29,7 @@ Backend developer (C# / .NET), Software Engineering student at ITMO, Saint Peter
 - Telegram bot backend for a nonprofit — handles high peak load.
 - UserService — gRPC CRUD service with PostgreSQL, Dapper, FluentValidation, Mapperly.
 
-**Contact:** [Telegram](https://t.me/Grigorchyk) · stephan.grigorchuk@gmail.com · [stigri.com](https://stigri.com)
+</details>
 
 <!--
 **frank-gr588/frank-gr588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
